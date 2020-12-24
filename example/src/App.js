@@ -2,7 +2,6 @@ import React from 'react'
 import SyntaxHighlighter from 'react-syntax-highlighter'
 import { Br, Us } from 'react-flags-icons'
 import { docco } from 'react-syntax-highlighter/dist/esm/styles/hljs'
-// import Us from 'react-flags-icons'
 
 const App = () => {
   return (
